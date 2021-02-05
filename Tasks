@@ -1,3 +1,19 @@
+01/02/2021
 
+I had done docker engine installation and written docker file and docker commands
+
+02/02/2021
+
+I had done Kubectl ,eksctl installation and cluster creation and done deployment types pod,deployment,replicaset
+
+03/02/2021
+
+I had done service type cluster ip,node port loadbalancer,nginx-ingress controller
 
 04/02/2021
+
+I had installed kubectl aws cli and kubeconfig in jenkins user and also yaml files in jenkins service type yaml files also
+
+05/02/2021
+
+I am doing ingress controller service to get end point,that endpoint i have to attach to loadbalancer,I am facing issue to get end point I will resolve by the end of the day 
