@@ -1,0 +1,4 @@
+I had seen how to done pipeline in jenkins and also taken one sample project in github I had forked that project in my own github repo and created job in jenkins pipeline project and taken sample pipeline script in that doing changes do build maven and push the code to s3 
+
+And also I had seen master and slave concept in jenkins ,while creating node I a
+m getting error working on that 
